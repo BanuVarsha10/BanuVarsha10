@@ -72,13 +72,28 @@ I like taking a problem from:
 
 ### 🧭 Code Archaeologist
 
+<p>
+  <img src="https://img.shields.io/badge/AI%20%2B%20Developer%20Tools-8B5CF6?style=flat-square">
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</p>
+
 **Git history reconstruction + grounded RAG for developers**
 
 Reconstructs function evolution across commits, tracks renames/refactors, grounds changes in GitHub issues/PRs and produces structured explanations with verification checks.
 
 → [View repository](https://github.com/BanuVarsha10/code-archae)
 
+---
+
 ### 🛡️ CAPSS
+
+<p>
+  <img src="https://img.shields.io/badge/5G%20Security-F97316?style=flat-square">
+  <img src="https://img.shields.io/badge/Privacy-EF4444?style=flat-square">
+  <img src="https://img.shields.io/badge/AI%20Agent-8B5CF6?style=flat-square">
+  <img src="https://img.shields.io/badge/Open5GS-2563EB?style=flat-square">
+</p>
 
 **Context-aware privacy and security for 5G**
 
@@ -86,7 +101,16 @@ An adaptive privacy decision system for 5G UE registration using Open5GS + UERAN
 
 → [View repository](https://github.com/BanuVarsha10/CAPSS)
 
+---
+
 ### 🧬 Drug–Drug Interaction Prediction
+
+<p>
+  <img src="https://img.shields.io/badge/Graph%20ML-10B981?style=flat-square">
+  <img src="https://img.shields.io/badge/GNN-059669?style=flat-square">
+  <img src="https://img.shields.io/badge/Healthcare%20ML-14B8A6?style=flat-square">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+</p>
 
 **Graph learning for drug interaction prediction**
 
